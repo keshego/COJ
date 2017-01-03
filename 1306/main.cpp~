@@ -1,0 +1,15 @@
+#include <iostream>
+
+using namespace std;
+
+int main()
+{
+    long d;
+    while(true)
+    {
+    cin>>d;
+    if (d%4==0) cout<<"YES"<<endl;
+    else cout<<"NO"<<endl;
+    }
+    return 0;
+}

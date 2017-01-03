@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1416605630 source:/home/keshego/Documentos/CodeBlocks/1495/main.cpp
+	<iostream>
+	<algorithm>
+

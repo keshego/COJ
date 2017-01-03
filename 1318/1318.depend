@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1445614559 source:c:\users\salazar diego a\documents\codeblocks\1318\main.cpp
+	<iostream>
+	<string.h>
+	<algorithm>
+
